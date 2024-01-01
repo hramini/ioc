@@ -1,0 +1,22 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "esnext",
+    "strict": true,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "strictPropertyInitialization": false,
+    "sourceMap": false,
+    "declaration": false,
+    "declarationMap": false,
+    "esModuleInterop": true,
+    "noResolve": false
+    // "skipLibCheck": true,
+    // "allowJs": true
+    // "allowJs": true
+  },
+  "include": ["./example", "./src"],
+  "exclude": ["node_modules", "./src/main-expose.ts"]
+}

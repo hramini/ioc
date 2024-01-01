@@ -1,2 +1,3 @@
-# ioc
-This repository contains the full structure of inversion of control
+# library-base
+
+This repository contains a full structure for creating libraries. All libraries should apply this structure and follow up on it.
